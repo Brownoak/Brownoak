@@ -9,13 +9,6 @@
 ✨ <p><em>Software Engineer at <a href="http://www.aait.edu.et">Addis Ababa Institute of Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 -   📫 How to reach me: **helawitgizaw@gmail.com**
-
- <summary><b>⚙️ GitHub Analytics</b></summary>
-<a href="https://github.com/Brownoak/github-stats">
-<img src="https://github.com/Brownoak/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/Brownoak/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-
-</a>
 <br>
 
 <p align="center"> 
@@ -23,6 +16,11 @@
         <img title="Git.io/streak-stats" alt="Helawit's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Brownoak&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
+
+<b>⚙️ GitHub Analytics</b>
+<a href="https://github.com/Brownoak/github-stats">
+<img src="https://github.com/Brownoak/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/Brownoak/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

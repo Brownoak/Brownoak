@@ -3,8 +3,8 @@
 <h3 align="center">Skilled Front-End Developer with a passion for crafting elegant, intuitive, and scalable solutions. I specialize in building seamless user interfaces and dynamic web experiences, leveraging a range of modern technologies to meet the evolving needs of businesses today.</h3>
 
 
-👨🏻‍💻<img src="assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
-✨ <p><em>Software Engineer at <a href="http://www.aait.edu.et">Addis Ababa Institute of Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<img src="assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
+✨<p><em>Software Engineer at <a href="http://www.aait.edu.et">Addis Ababa Institute of Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 -   📫 How to reach me: **helawitgizaw@gmail.com**
 <br>
@@ -40,7 +40,6 @@
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
     <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-    <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
     </p>
 
 <h3 align="left">Connect with me:</h3>

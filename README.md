@@ -5,7 +5,7 @@
 <h3 align="center">Skilled Front-End Developer with a passion for crafting elegant, intuitive, and scalable solutions. I specialize in building seamless user interfaces and dynamic web experiences, leveraging a range of modern technologies to meet the evolving needs of businesses today.</h3>
 
 
-👨🏻‍💻<img src="https://raw.githubusercontent.com/Brownoak/Brownoak/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
+👨🏻‍💻<img src="assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 ✨ <p><em>Software Engineer at <a href="http://www.aait.edu.et">Addis Ababa Institute of Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 -   📫 How to reach me: **helawitgizaw@gmail.com**

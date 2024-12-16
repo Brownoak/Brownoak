@@ -20,7 +20,7 @@
 ## 📊 My Github Stats
   <br/>
   <div>
-    <a href="https://github.com/Brownoak/github-readme-stats"><img alt="Helawit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sichrisso&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=#ffa500" /></a>
+    <a href="https://github.com/Brownoak/github-readme-stats"><img alt="Helawit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Brownoak&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=#ffa500" /></a>
     <a href="https://github.com/Brownoak/github-readme-stats"><img alt="Helawit's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brownoak&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=#ffa500" /></a></div>
   <br/><br>
 

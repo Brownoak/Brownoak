@@ -6,7 +6,8 @@
 <img src="assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 ✨<p><em>Software Engineer at <a href="http://www.aait.edu.et">Addis Ababa Institute of Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
--   Reach me: **helawitgizaw@gmail.com**
+-   Reach me: 
+**helawitgizaw@gmail.com**
 <br>
 
 <p align="center"> 

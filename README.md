@@ -17,10 +17,12 @@
     </a>
 </p>
 
-<b>⚙️ GitHub Analytics</b>
-<a href="https://github.com/Brownoak/github-stats">
-<img src="https://github.com/Brownoak/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/Brownoak/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+## 📊 My Github Stats
+  <br/>
+  <div>
+    <a href="https://github.com/Brownoak/github-readme-stats"><img alt="Helawit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sichrisso&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=#ffa500" /></a>
+    <a href="https://github.com/Brownoak/github-readme-stats"><img alt="Helawit's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brownoak&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=#ffa500" /></a></div>
+  <br/><br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

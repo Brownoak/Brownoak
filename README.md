@@ -18,6 +18,12 @@
 </a>
 <br>
 
+<p align="center"> 
+    <a href="https://github.com/Brownoak/github-readme-streak-stats">
+        <img title="Git.io/streak-stats" alt="Helawit's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Brownoak&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/helawit-abraham-gizaw-a444a9198/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="helawit-abraham-gizaw-a444a9198" height="30" width="40" /></a>

@@ -11,9 +11,11 @@
 -   📫 How to reach me: **helawitgizaw@gmail.com**
 
  <summary><b>⚙️ GitHub Analytics</b></summary>
-<a href="https://github.com/Brownoak">
-   <img height="155em" src="https://raw.githubusercontent.com/Brownoak/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Helawit's github stats" />
-    <img height="155em" src="https://raw.githubusercontent.com/Brownoak/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Helawit's github stats" />
+<a href="https://github.com/Brownoak/github-stats">
+<img src="https://github.com/Brownoak/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/Brownoak/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+
+</a>
 <br>
 
 <h3 align="left">Connect with me:</h3>

@@ -41,7 +41,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/helawit-abraham-gizaw-a444a9198/" target="blank"><img src="./icons/Linkedin.svg" alt="Linkedin" height="30" width="40"/></a>
+<a href="https://www.linkedin.com/in/helawit-abraham-gizaw-a444a9198/" target="blank"><img src="./icons/LinkedIn.svg" alt="Linkedin" height="30" width="40"/></a>
 <a href="https://www.instagram.com/helanii_12" target="blank"><img src="./icons/Instagram.svg" alt="Instagram" height="30" width="40"/></a>
 
 <a href="mailto:helawitgizaw@gmail.com" target="blank">

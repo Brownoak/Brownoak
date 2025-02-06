@@ -44,7 +44,7 @@
 <a href="https://www.linkedin.com/in/helawit-abraham-gizaw-a444a9198/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="helawit-abraham-gizaw-a444a9198" height="30" width="40" /></a>
 <a href="https://www.instagram.com/helanii_12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hela" height="30" width="40" /></a>
 
-<div style="vertical-align: baseline; padding-top: 5px; ">
+<div style="display: flex; vertical-align: baseline; padding-top: 5px; ">
 <a href="mailto:helawitgizaw@gmail.com" target="blank">
 <img src="./icons/Gmail-Light.svg" alt="email" height="30" width="40"/>
   </a></div>

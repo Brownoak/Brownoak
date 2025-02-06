@@ -45,6 +45,6 @@
 <a href="https://www.instagram.com/helanii_12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hela" height="30" width="40" /></a>
 
  <a href="mailto:helawitgizaw@gmail.com" target="blank">
-<img src="./icons/Gmail-Light.svg" alt="email" height="30" width="40" style="vertical-align: middle;"/>
+<img src="./icons/Gmail-Light.svg" alt="email" height="30" width="40" style="vertical-align: baseline;"/>
   </a>
 </p>

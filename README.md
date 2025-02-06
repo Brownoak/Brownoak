@@ -8,7 +8,7 @@
 <br>
 <!-- Github streak -->
 <p align="center"> 
-    <a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=brownoak" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=" alt="GitHub Streak" /></a>
 </p>
 
 <!-- Languages and tools -->

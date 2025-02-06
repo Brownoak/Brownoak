@@ -7,9 +7,7 @@
 <br>
 
 <p align="center"> 
-    <a href="https://github.com/Brownoak/github-readme-streak-stats">
-        <img title="Git.io/streak-stats" alt="Helawit's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Brownoak&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+    <a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=brownoak" alt="GitHub Streak" /></a>
 </p>
 
 <!-- ## 📊 My Github Stats

@@ -40,7 +40,7 @@
     </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left" style="display: flex;>
 <a href="https://www.linkedin.com/in/helawit-abraham-gizaw-a444a9198/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="helawit-abraham-gizaw-a444a9198" height="30" width="40" /></a>
 <a href="https://www.instagram.com/helanii_12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hela" height="30" width="40" /></a>
 
